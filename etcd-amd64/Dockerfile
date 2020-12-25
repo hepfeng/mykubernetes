@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.4.3-0
+FROM gcr.io/google_containers/etcd-amd64:3.1.12
 MAINTAINER goser
